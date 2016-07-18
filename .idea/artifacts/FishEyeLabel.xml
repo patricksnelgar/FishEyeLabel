@@ -6,7 +6,7 @@
         <option name="keyStoreUrl" value="file://" />
         <option name="proGuardCfgFiles">
           <list>
-            <option value="file://%MODULE_SDK_HOME%/tools/proguard/proguard-android.txt" />
+            <option value="file://C:/Program Files/Java/jdk1.8.0_66/tools/proguard/proguard-android.txt" />
           </list>
         </option>
         <option name="signingMode" value="DEBUG" />
